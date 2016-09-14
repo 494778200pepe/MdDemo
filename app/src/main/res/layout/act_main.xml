@@ -29,6 +29,11 @@
         style="@style/CommonButton"
         android:layout_marginTop="10dp"
         android:text="Tickplusdrawable" />
+    <Button
+        android:id="@+id/main_btn4"
+        style="@style/CommonButton"
+        android:layout_marginTop="10dp"
+        android:text="FloatingButton" />
 
 
 </LinearLayout>

@@ -31,6 +31,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             case R.id.main_btn3://
                 startActivity(new Intent(this, TickplusdrawableAct.class));
                 break;
+            case R.id.main_btn4://
+                startActivity(new Intent(this, FloatingButtonAct.class));
+                break;
 
         }
     }

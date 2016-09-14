@@ -22,6 +22,7 @@
         <activity android:name=".MaterialMenuAct"/>
         <activity android:name=".RippleEffectAct"/>
         <activity android:name=".TickplusdrawableAct"/>
+        <activity android:name=".FloatingButtonAct"/>
     </application>
 
 </manifest>
