@@ -24,16 +24,42 @@
         style="@style/CommonButton"
         android:layout_marginTop="10dp"
         android:text="RippleEffect" />
- <Button
+
+    <Button
         android:id="@+id/main_btn3"
         style="@style/CommonButton"
         android:layout_marginTop="10dp"
         android:text="Tickplusdrawable" />
+
     <Button
         android:id="@+id/main_btn4"
         style="@style/CommonButton"
         android:layout_marginTop="10dp"
         android:text="FloatingButton" />
+
+    <Button
+        android:id="@+id/main_btn5"
+        style="@style/CommonButton"
+        android:layout_marginTop="10dp"
+        android:text="AnimatedVector" />
+
+    <Button
+        android:id="@+id/main_btn6"
+        style="@style/CommonButton"
+        android:layout_marginTop="10dp"
+        android:text="MaterialDialog" />
+
+    <Button
+        android:id="@+id/main_btn7"
+        style="@style/CommonButton"
+        android:layout_marginTop="10dp"
+        android:text="Transitions" />
+
+    <Button
+        android:id="@+id/main_btn8"
+        style="@style/CommonButton"
+        android:layout_marginTop="10dp"
+        android:text="" />
 
 
 </LinearLayout>

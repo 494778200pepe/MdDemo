@@ -25,4 +25,10 @@
 
     <dimen name="fab_actions_spacing">16dp</dimen>
     <dimen name="fab_labels_margin">8dp</dimen>
+
+
+    <dimen name="margin">4dp</dimen>
+    <dimen name="heart_size">48sp</dimen>
+
+    <dimen name="square_size">50dp</dimen>
 </resources>

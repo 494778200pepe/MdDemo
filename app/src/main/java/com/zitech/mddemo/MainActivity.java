@@ -34,6 +34,18 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             case R.id.main_btn4://
                 startActivity(new Intent(this, FloatingButtonAct.class));
                 break;
+            case R.id.main_btn5://
+                startActivity(new Intent(this, AnimatedVectorAct.class));
+                break;
+            case R.id.main_btn6://
+                startActivity(new Intent(this, MaterialDialogAct.class));
+                break;
+            case R.id.main_btn7://
+                startActivity(new Intent(this, TransitionsAct.class));
+                break;
+            case R.id.main_btn8://
+                startActivity(new Intent(this, MaterialDialogAct.class));
+                break;
 
         }
     }

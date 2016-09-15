@@ -23,6 +23,13 @@
         <activity android:name=".RippleEffectAct"/>
         <activity android:name=".TickplusdrawableAct"/>
         <activity android:name=".FloatingButtonAct"/>
+        <activity android:name=".AnimatedVectorAct"/>
+        <activity android:name=".animatedvector.ExampleActivity"/>
+        <activity android:name=".animatedvector.FillInHeartActivity"/>
+        <activity android:name=".animatedvector.PathMorphActivity"/>
+        <activity android:name=".animatedvector.RotateActivity"/>
+        <activity android:name=".MaterialDialogAct"/>
+        <activity android:name=".TransitionsAct"/>
     </application>
 
 </manifest>

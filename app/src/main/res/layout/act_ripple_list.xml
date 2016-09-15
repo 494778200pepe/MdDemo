@@ -76,7 +76,7 @@
         <ImageView
             android:layout_width="?android:actionBarSize"
             android:layout_height="?android:actionBarSize"
-            android:src="@drawable/ic_profil_plus"
+            android:src="@mipmap/ic_profil_plus"
             android:layout_gravity="center"
             android:padding="10dp"
             android:background="@android:color/holo_blue_dark"/>
