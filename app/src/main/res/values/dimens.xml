@@ -38,4 +38,6 @@
 
     <dimen name="list_item_height">222dp</dimen>
 
+    <dimen name="sliding_menu_width">80dp</dimen>
+
 </resources>
