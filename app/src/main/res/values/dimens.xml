@@ -36,4 +36,6 @@
     <dimen name="fab_shadow_size">8dp</dimen>
     <dimen name="fab_elevation_lollipop">4dp</dimen>
 
+    <dimen name="list_item_height">222dp</dimen>
+
 </resources>

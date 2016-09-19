@@ -53,6 +53,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 startActivity(new Intent(this, MaterialTabAct.class));
                 break;
             case R.id.main_btn11://
+                startActivity(new Intent(this, PhoenixAct.class));
                 break;
             case R.id.main_btn12://
                 break;

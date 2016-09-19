@@ -16,6 +16,8 @@ import java.util.ArrayList;
 
 /**
  * Created by pepe on 2016/9/19.
+ * neokree/MaterialTabs: Custom Tabs with Material Design effects
+ * https://github.com/neokree/MaterialTabs
  */
 public class MaterialTabAct extends ListActivity implements AdapterView.OnItemClickListener {
 
