@@ -59,6 +59,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 startActivity(new Intent(this, SideMenuAct.class));
                 break;
             case R.id.main_btn13://
+                startActivity(new Intent(this, ContextMenuAct.class));
                 break;
 
         }

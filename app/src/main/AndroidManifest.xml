@@ -39,6 +39,7 @@
         <activity android:name=".materialtab.TextTabActivity"/>
         <activity android:name=".PhoenixAct"/>
         <activity android:name=".SideMenuAct"/>
+        <activity android:name=".ContextMenuAct"/>
     </application>
 
 </manifest>

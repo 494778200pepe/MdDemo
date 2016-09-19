@@ -85,7 +85,7 @@
         android:id="@+id/main_btn13"
         style="@style/CommonButton"
         android:layout_marginTop="10dp"
-        android:text="" />
+        android:text="ContextMenu" />
 
 
 </LinearLayout>
