@@ -30,6 +30,8 @@
         <activity android:name=".animatedvector.RotateActivity"/>
         <activity android:name=".MaterialDialogAct"/>
         <activity android:name=".TransitionsAct"/>
+        <activity android:name=".MaterialEditTextAct"/>
+        <activity android:name=".MaterialToolbarAct"/>
     </application>
 
 </manifest>

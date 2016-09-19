@@ -52,4 +52,12 @@
             <enum name="right" value="3"/>
         </attr>
     </declare-styleable>
+
+
+        <!--<declare-styleable name="SecondFloatingActionButton">-->
+            <!--<attr name="fab_colorPressed" format="color" />-->
+            <!--<attr name="fab_colorNormal" format="color" />-->
+            <!--<attr name="fab_colorRipple" format="color" />-->
+            <!--<attr name="fab_shadow" format="boolean" />-->
+        <!--</declare-styleable>-->
 </resources>

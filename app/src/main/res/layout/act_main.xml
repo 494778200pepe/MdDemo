@@ -59,6 +59,32 @@
         android:id="@+id/main_btn8"
         style="@style/CommonButton"
         android:layout_marginTop="10dp"
+        android:text="MaterialEditText" />
+
+    <Button
+        android:id="@+id/main_btn9"
+        style="@style/CommonButton"
+        android:layout_marginTop="10dp"
+        android:text="MaterialToolbar" />
+    <Button
+        android:id="@+id/main_btn10"
+        style="@style/CommonButton"
+        android:layout_marginTop="10dp"
+        android:text="" />
+    <Button
+        android:id="@+id/main_btn11"
+        style="@style/CommonButton"
+        android:layout_marginTop="10dp"
+        android:text="" />
+    <Button
+        android:id="@+id/main_btn12"
+        style="@style/CommonButton"
+        android:layout_marginTop="10dp"
+        android:text="" />
+    <Button
+        android:id="@+id/main_btn13"
+        style="@style/CommonButton"
+        android:layout_marginTop="10dp"
         android:text="" />
 
 

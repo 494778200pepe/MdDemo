@@ -44,7 +44,18 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 startActivity(new Intent(this, TransitionsAct.class));
                 break;
             case R.id.main_btn8://
-                startActivity(new Intent(this, MaterialDialogAct.class));
+                startActivity(new Intent(this, MaterialEditTextAct.class));
+                break;
+            case R.id.main_btn9://
+                startActivity(new Intent(this, MaterialToolbarAct.class));
+                break;
+            case R.id.main_btn10://
+                break;
+            case R.id.main_btn11://
+                break;
+            case R.id.main_btn12://
+                break;
+            case R.id.main_btn13://
                 break;
 
         }

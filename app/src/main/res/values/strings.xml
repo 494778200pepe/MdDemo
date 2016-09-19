@@ -74,4 +74,6 @@
     <string name="scene_3">3</string>
     <string name="additional_message">This text fades in.</string>
 
+    <string name="drawer_open">drawer_open</string>
+    <string name="drawer_close">drawer_close</string>
 </resources>
