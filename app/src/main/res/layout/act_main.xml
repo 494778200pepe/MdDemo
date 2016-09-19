@@ -70,7 +70,7 @@
         android:id="@+id/main_btn10"
         style="@style/CommonButton"
         android:layout_marginTop="10dp"
-        android:text="" />
+        android:text="MaterialTab" />
     <Button
         android:id="@+id/main_btn11"
         style="@style/CommonButton"

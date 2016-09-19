@@ -32,6 +32,11 @@
         <activity android:name=".TransitionsAct"/>
         <activity android:name=".MaterialEditTextAct"/>
         <activity android:name=".MaterialToolbarAct"/>
+        <activity android:name=".MaterialTabAct"/>
+        <activity android:name=".materialtab.IconTabActivity"/>
+        <activity android:name=".materialtab.SwipableIconTabActivity"/>
+        <activity android:name=".materialtab.SwipableTextTabActivity"/>
+        <activity android:name=".materialtab.TextTabActivity"/>
     </application>
 
 </manifest>

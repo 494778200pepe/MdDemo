@@ -50,6 +50,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 startActivity(new Intent(this, MaterialToolbarAct.class));
                 break;
             case R.id.main_btn10://
+                startActivity(new Intent(this, MaterialTabAct.class));
                 break;
             case R.id.main_btn11://
                 break;
