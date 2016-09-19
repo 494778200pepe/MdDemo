@@ -86,6 +86,21 @@
         style="@style/CommonButton"
         android:layout_marginTop="10dp"
         android:text="ContextMenu" />
+    <Button
+        android:id="@+id/main_btn14"
+        style="@style/CommonButton"
+        android:layout_marginTop="10dp"
+        android:text="DiscreteSeekBar" />
+    <Button
+        android:id="@+id/main_btn15"
+        style="@style/CommonButton"
+        android:layout_marginTop="10dp"
+        android:text="" />
+    <Button
+        android:id="@+id/main_btn16"
+        style="@style/CommonButton"
+        android:layout_marginTop="10dp"
+        android:text="" />
 
 
 </LinearLayout>

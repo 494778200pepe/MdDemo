@@ -43,5 +43,6 @@ dependencies {
     compile 'com.yalantis:sidemenu:1.0'
 
     compile 'com.yalantis:contextmenu:1.0.7'
+    compile 'org.adw.library:discrete-seekbar:1.0.1'
 
 }

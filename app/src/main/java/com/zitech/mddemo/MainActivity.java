@@ -61,6 +61,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             case R.id.main_btn13://
                 startActivity(new Intent(this, ContextMenuAct.class));
                 break;
+            case R.id.main_btn14://
+                startActivity(new Intent(this, DiscreteSeekBarAct.class));
+                break;
+            case R.id.main_btn15://
+                break;
+            case R.id.main_btn16://
+                break;
 
         }
     }
